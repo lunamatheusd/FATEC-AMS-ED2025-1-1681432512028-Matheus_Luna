@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------------*/
 /*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
 /*                         Id da Atividade: S1-B1-2                                 */
-/*             Objetivo: << Manipulacao de Array com ponteiro >>                    */
+/*             Objetivo: << Calculadora RPN >>                                      */
 /*                                                                                  */
 /*                                Autor: Matheus David Carbone Luna                 */
 /*                                                                  Data:06/03/2025 */
