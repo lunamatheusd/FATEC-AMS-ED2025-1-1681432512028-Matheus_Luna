@@ -1,10 +1,10 @@
 /*----------------------------------------------------------------------------------*/
 /*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
-/*                         Id da Atividade: S1-B1-2                                 */
+/*                         Id da Atividade: S1-B1-3                                 */
 /*             Objetivo: << Restaurante com Lista Ligada >>                         */
 /*                                                                                  */
 /*                                Autor: Matheus David Carbone Luna                 */
-/*                                                                  Data:06/03/2025 */
+/*                                                                  Data:25/03/2025 */
 /*----------------------------------------------------------------------------------*/
 
 #include <stdio.h>
