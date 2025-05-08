@@ -1,10 +1,11 @@
-/******************************************************************************
-
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
+/*----------------------------------------------------------------------------------*/
+/*   FATEC-São Caetano do Sul                 Estrutura de Dados                    */
+/*                         Id da Atividade: S1-B2-2                                 */
+/*             Objetivo: << Bubblesort com ordem ascendente >>                      */
+/*                                                                                  */
+/*                                Autor: Matheus David Carbone Luna                 */
+/*                                                                  Data:08/05/2025 */
+/*----------------------------------------------------------------------------------*/
 
 #include <stdio.h>
 
